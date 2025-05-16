@@ -49,9 +49,13 @@ Ask questions about your documents in natural language.
 
 ## 📂 Project Structure
 llama-pdf-docx-chatbot/
+
 ├── app.py
+
 ├── requirements.txt
+
 ├── .env
+
 └── README.md
 
 ## 📝 Notes
