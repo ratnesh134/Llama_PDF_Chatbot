@@ -12,7 +12,7 @@ Error handling: Prompts users to upload documents before asking questions
 
 ## 🛠️ Installation
 1. Clone the repository
-git clone https://github.com/yourusername/llama-pdf-docx-chatbot.git
+git clone https://github.com/ratnesh134/llama-pdf-docx-chatbot.git
 cd llama-pdf-docx-chatbot
 
 2. Create and activate a virtual environment (Python 3.10 recommended)
